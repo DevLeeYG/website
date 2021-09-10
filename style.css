@@ -100,7 +100,7 @@ button {
 }
 
 #home {
-  background: url("./imgs/Lavishette.png") center/cover no-repeat;
+  background: #dff9fb center/cover no-repeat;
   padding: 40px;
   padding-top: 120px;
   text-align: center;
